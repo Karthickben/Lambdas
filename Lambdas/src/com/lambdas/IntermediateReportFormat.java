@@ -8,7 +8,7 @@ public class IntermediateReportFormat {
 	
 	
 	public IntermediateReportFormat(String name, char band, int points) {
-		super();
+		//super();
 		this.name = name;
 		this.band = band;
 		this.points = points;
